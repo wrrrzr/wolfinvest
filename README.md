@@ -1,0 +1,2 @@
+# wolfinvest
+Investing simulator
